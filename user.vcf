@@ -6,9 +6,9 @@ FN: Lilet De Villa
 ORG:Hoppler;
 TITLE:Licensed Real Estate Broker\nSales Director
 EMAIL;type=INTERNET;type=WORK;type=pref:lilet@hoppler.com.ph
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;Regus Manila\nAscott Makati\, 09-01;;;138577;Philippines
+TEL;type=WORK;type=VOICE:+63 917 135 0521
+item1.ADR;type=WORK;type=pref:;;Regus Manila\nAscott Makati\,;;;;Philippines
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:hoppler.com.ph
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
