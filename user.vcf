@@ -7,7 +7,7 @@ ORG:Hoppler;
 TITLE:Licensed Real Estate Broker\nSales Director
 EMAIL;type=INTERNET;type=WORK;type=pref:lilet@hoppler.com.ph
 TEL;type=WORK;type=VOICE:+63 917 135 0521
-item1.ADR;type=WORK;type=pref:;;Regus Manila\n Ascott Makati, Ayala Center\n, Makati;Philippines
+item1.ADR;type=WORK;type=pref:;;Regus Manila\nAscott Makati, Ayala Center\nMakati, Philippines;
 item1.X-ABADR:sg
 item2.URL;type=pref:hoppler.com.ph
 item2.X-ABLabel:_$!<HomePage>!$_
